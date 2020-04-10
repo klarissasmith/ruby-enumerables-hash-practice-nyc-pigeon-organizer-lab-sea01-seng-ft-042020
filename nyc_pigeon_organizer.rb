@@ -14,6 +14,10 @@ end
 pigeons_by_names
 end
 
+
+
+
+
 #found solution that uses pipes and equals. Why does this work but without it my ENTIRE values were missing and only the lives was working??
 
 # def nyc_pigeon_organizer(data)
